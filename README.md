@@ -18,4 +18,5 @@ If the website structure changes significantly, the scraper may require adjustme
 
 ## Acknowledgments
 python-latest-user-agents: (https://github.com/jnrbsn/python-latest-user-agents)
+
 HTTPX: (https://github.com/encode/httpx)
